@@ -1,7 +1,9 @@
 # pong-game
 
 Player 1 uses 'w' and 's' and Player 2 uses 'Up' an 'Down' keys
+
 The player with a score of 3 wins.
+
 You can press 'ESC' to exit at the end of the game
 
 
